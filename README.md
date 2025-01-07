@@ -72,10 +72,4 @@ git log          # View a detailed commit history
 git log --oneline  # View a concise commit history
 ```
 
-![Git log](photos/git-log-git-project.PNG)
-
----
-
-![Folders project](photos/folders-git-project.PNG)
-
 ---
